@@ -4,7 +4,7 @@ Write at least one complete sentence for each answer. Each answer must contain a
 
 ## 1. What is the difference between a commit and a push?
 
-Answer: TODO
+Answer: A commit saves a change on your local repository on your computer. A push sends your changes to a remote repository to share with others.
 
 ## 2. Why work on a branch instead of directly on `main`?
 
