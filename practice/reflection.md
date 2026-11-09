@@ -12,7 +12,7 @@ Answer: Working on a branch allows you to experiment with a new feature or attri
 
 ## 3. What does a pull request make possible?
 
-Answer: TODO
+Answer: A pull request allows a branch to be reviewed, debugged, and approved by other developers before a branch is merged to another.
 
 ## 4. Which Git command helped you understand the repository's state, and what did it show you?
 
