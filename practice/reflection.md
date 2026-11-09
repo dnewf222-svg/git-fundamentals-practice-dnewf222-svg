@@ -8,7 +8,7 @@ Answer: A commit saves a change on your local repository on your computer. A pus
 
 ## 2. Why work on a branch instead of directly on `main`?
 
-Answer: TODO
+Answer: Working on a branch allows you to experiment with a new feature or attribute you can either add if successful or cut it without affecting the main branch.
 
 ## 3. What does a pull request make possible?
 
