@@ -16,4 +16,4 @@ Answer: A pull request allows a branch to be reviewed, debugged, and approved by
 
 ## 4. Which Git command helped you understand the repository's state, and what did it show you?
 
-Answer: TODO
+Answer: git status shows you what branch you are on, if it is up to date, and if there is anything to commit.
